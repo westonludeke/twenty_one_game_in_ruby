@@ -20,7 +20,10 @@ As part of the course, my role was to develop the following logic and add it to 
 
 ![dealer_logic](https://i.imgur.com/tCogTmU.png)
 
-* Keeping score at the end of each round.
+* Keeping score at the end of each round:
+
+![end_of_round](https://i.imgur.com/binswmH.png)
+
 * The ability to have multiple rounds needed to win the game.
 * Asking the player if they'd like to repeat the game after a winner is declared.
 
