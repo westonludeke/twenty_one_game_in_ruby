@@ -12,9 +12,13 @@ As part of the course, my role was to develop the following logic and add it to 
 * Create the deck of cards containing the full 52 cards with the four suits.
 * Shuffling the deck of cards.
 * Dealing the player and dealer two cards each, while showing the player only the dealer's first card.
-* Logic for hitting or staying.
+* Logic for the player hitting or staying:
 
 ![hit_or_stay_image](https://i.imgur.com/C1q09Pt.png)
+
+* Once the player stays, the dealer's logic for hitting until reaching at least the score of 17 (which can be changed):
+
+![dealer_logic](https://i.imgur.com/tCogTmU.png)
 
 * Keeping score at the end of each round.
 * The ability to have multiple rounds needed to win the game.
