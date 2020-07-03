@@ -13,6 +13,9 @@ As part of the course, my role was to develop the following logic and add it to 
 * Shuffling the deck of cards.
 * Dealing the player and dealer two cards each, while showing the player only the dealer's first card.
 * Logic for hitting or staying.
+
+![hit_or_stay_image](https://i.imgur.com/C1q09Pt.png)
+
 * Keeping score at the end of each round.
 * The ability to have multiple rounds needed to win the game.
 * Asking the player if they'd like to repeat the game after a winner is declared.
@@ -24,7 +27,7 @@ This version of Twenty One is written in Ruby and there is no front end. In orde
 
 The game is designed for the player to always start off each round. At the end of each round one of three outcomes will occur: The player wins, the dealer wins, or there is a tie. The program will keep score and also a total number of rounds played, both shown in the terminal.
 
-As a default, the first person to win 5 rounds wins the game. This number can be adjusted in the "TOTAL_ROUNDS" constant if you'd like to play less rounds or more rounds.
+As a default, the first person to win 2 rounds wins the game. This number can be adjusted in the "TOTAL_ROUNDS" constant if you'd like to play less rounds or more rounds.
 
 The game also is designed with the number 21 being the 'blackjack' number, but this can be adjusted if you'd like with the "BLACKJACK" constant.
 
