@@ -42,6 +42,6 @@ When it's the dealer's turn to draw cards, after the player has selected to 'sta
 
 At the end of the game, there is an option to play again which resets the scores.
 
-![end_game_image]()
+![end_game_image](https://i.imgur.com/XkmuCrV.png)
 
 [The original code with full commit history can be viewed here](https://github.com/westonludeke/launch_school_rb101/blob/master/6_lesson/twenty_one.rb).
