@@ -1,7 +1,7 @@
 # Twenty One
 ##### *A game of Twenty One written in Ruby*
 
-![beginning_image]()
+![beginning_image](https://i.imgur.com/44xjbt3.png)
 
 ### About:
 
